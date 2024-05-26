@@ -1,0 +1,49 @@
+C:\Users\HP\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HP\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HP\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\CafeManagementSystems.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\CafeManagementSystems.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dashboard.resources
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\CafeManagementSystems.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\CafeManagementSystems.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addusercontrol.uc_welcome.resources
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.uc_additem.resources
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addusercontrol.uc_placeorder.resources
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addusercontrol.uc_updateitemcs.resources
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addusercontrol.uc_removeitem.resources
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\obj\Debug\WindowsFormsApp1.Addusercontrol.uc_placeorder.resources
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\obj\Debug\WindowsFormsApp1.Addusercontrol.uc_removeitem.resources
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\obj\Debug\WindowsFormsApp1.Addusercontrol.uc_updateitemcs.resources
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\obj\Debug\WindowsFormsApp1.Addusercontrol.uc_welcome.resources
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\obj\Debug\WindowsFormsApp1.dashboard.resources
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\obj\Debug\WindowsFormsApp1.uc_additem.resources
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\obj\Debug\CafeManagementSystems.csproj.GenerateResource.cache
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\obj\Debug\CafeManagementSystems.csproj.CoreCompileInputs.cache
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mg\OneDrive\Desktop\(2021-CS-611,641,622)Project\obj\Debug\CafeManagementSystems.csproj.AssemblyReference.cache
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\bin\Debug\WindowsFormsApp1.exe.config
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\bin\Debug\WindowsFormsApp1.exe
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\bin\Debug\WindowsFormsApp1.pdb
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\obj\Debug\CafeManagementSystems.csproj.AssemblyReference.cache
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\obj\Debug\WindowsFormsApp1.Addusercontrol.uc_placeorder.resources
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\obj\Debug\WindowsFormsApp1.Addusercontrol.uc_removeitem.resources
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\obj\Debug\WindowsFormsApp1.Addusercontrol.uc_updateitemcs.resources
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\obj\Debug\WindowsFormsApp1.Addusercontrol.uc_welcome.resources
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\obj\Debug\WindowsFormsApp1.dashboard.resources
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\obj\Debug\WindowsFormsApp1.uc_additem.resources
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\obj\Debug\CafeManagementSystems.csproj.GenerateResource.cache
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\obj\Debug\CafeManagementSystems.csproj.CoreCompileInputs.cache
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\obj\Debug\WindowsFormsApp1.exe
+E:\CS Courses\Semester 4\Database  (1)\(2021-CS-611,641,622)DB Project\obj\Debug\WindowsFormsApp1.pdb
